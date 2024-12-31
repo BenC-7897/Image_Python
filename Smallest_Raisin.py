@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 23 15:50:42 2024
-@author: bencr
-"""
 import matplotlib.pyplot as plt
 import os 
 from skimage import io, color, measure, segmentation, morphology
