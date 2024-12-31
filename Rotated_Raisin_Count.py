@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 23 16:37:56 2024
-@author: bencr
-"""
 import matplotlib.pyplot as plt # To plot the results
 import os # To allow for operating systems
 from skimage import io, color, measure, segmentation, morphology # To enable object detection
