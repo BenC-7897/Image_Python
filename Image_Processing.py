@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 16 14:04:03 2024
-@author: bencr
-"""
 from skimage import data, io, filters
 from skimage import io, transform
 from skimage.color import rgb2gray 
